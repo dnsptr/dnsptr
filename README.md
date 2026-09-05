@@ -2,78 +2,66 @@
 
 ### Frontend Developer
 
-I'm a frontend developer with a background in graphic and web design.
+I'm a frontend developer with a background in **graphic and web design**.
 
-I build web interfaces with **TypeScript, JavaScript, React and Next.js**.  
-Currently working on an e-commerce project using **Next.js and Medusa**.
+I build web applications with **TypeScript, React and Next.js**, with a focus on clean interfaces and user experience.
 
-I enjoy turning designs into functional interfaces and learning how modern
-web applications work under the hood.
+Currently working on a production e-commerce project using **Next.js and Medusa**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/SCSS-000?style=flat-square&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML` · `CSS` · `SCSS` · `Tailwind CSS`
 
 **Backend & Data**
-
-![Medusa](https://img.shields.io/badge/Medusa-000?style=flat-square&logo=medusa)
-![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
+`Medusa` · `REST API` · `PostgreSQL` · `Redis` · `MySQL`
 
 **Tools**
+`Git` · `GitHub` · `npm` · `Figma` · `Vercel`
 
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![npm](https://img.shields.io/badge/npm-000?style=flat-square&logo=npm)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma)
+**Other**
+`Flutter` · `Dart` · `Python` · `PyTorch` · `C#`
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Mario Mikke — E-commerce Store
+### 🛍 Mario Mikke
 
-E-commerce website for a clothing brand built with **Next.js and Medusa**.
+Full-stack e-commerce application for a clothing brand.
 
-- Product catalog and categories
-- Product pages and variants
-- Product filtering
-- Shopping cart
-- E-commerce backend integration
-- REST API integration
-- Responsive user interface
+Built with a **Next.js / React / TypeScript** storefront and **Medusa** e-commerce backend.
 
-**Tech:** `Next.js` `React` `TypeScript` `Medusa` `REST API`
+* Product catalog and categories
+* Product filtering and variants
+* Shopping cart and checkout flow
+* Medusa API integration
+* Server-side rendering and ISR
+* Production backend with PostgreSQL and Redis
 
-**[mariomikke.shop](https://mariomikke.shop)**
+**Stack:** `Next.js` `React` `TypeScript` `Medusa` `PostgreSQL` `Redis`
+
+[mariomikke.shop](https://www.mariomikke.shop)
+[Source code](https://github.com/dnsptr/clothing-store)
 
 > Currently in development
 
 ---
 
-### PYX Studio — Digital Design Studio
+### PYX Studio
 
-Commercial website developed for a digital design studio I previously
-worked with as a graphic designer.
+Commercial website for a digital design studio I previously worked with as a graphic designer.
 
-- Responsive layout
-- Interactive user interface
-- Services and portfolio sections
-- Implementation of the website from design to frontend
+* Responsive layout
+* Interactive interface
+* Services and portfolio sections
+* Implementation from design to frontend
 
-**Tech:** `JavaScript` `SCSS` `Tailwind CSS`
+**Stack:** `JavaScript` `SCSS` `Tailwind CSS`
 
-**[pyxstudio.ru](https://pyxstudio.ru)**
+[pyxstudio.ru](https://pyxstudio.ru)
 
 > Source code is private
 
@@ -81,19 +69,13 @@ worked with as a graphic designer.
 
 ## Other Experience
 
-Besides frontend development, I have worked with:
+During my university studies, I developed a mobile application using **Flutter and Dart** with a **REST API**.
 
-`Flutter` · `Dart` · `Python` · `PyTorch` · `MySQL` · `C#`
-
-During my university studies, I developed a mobile application using
-**Flutter/Dart** with a **REST API**.
-
-I also participated in an ML research project where I worked with
-data annotation and model training using **Python and PyTorch**.
+I also participated in an ML research project involving data annotation and model training with **Python and PyTorch**.
 
 ---
 
-## 📫 Contact
+## Contact
 
-**Telegram:** [@cailiyu](https://t.me/cailiyu)  
+**Telegram:** [@cailiyu](https://t.me/cailiyu)
 **Email:** [dnptr31@gmail.com](mailto:dnptr31@gmail.com)
