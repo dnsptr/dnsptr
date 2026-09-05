@@ -26,9 +26,9 @@ Currently working on a production e-commerce project using **Next.js and Medusa*
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛍 Mario Mikke
+### Mario Mikke
 
 Full-stack e-commerce application for a clothing brand.
 
